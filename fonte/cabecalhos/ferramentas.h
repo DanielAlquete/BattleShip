@@ -240,7 +240,7 @@ void reiniciarTabuleiro(Coordenadas_t *_tabuleiro){
 	for(unsigned int i = 0; i < ORDEM_MATRIZ_TABULEIRO; i++){
 		for(int j = 0; j < ORDEM_MATRIZ_TABULEIRO; j++){
 			strcpy(_tabuleiro[i * ORDEM_MATRIZ_TABULEIRO + j].conteudo , ASCII_CARACTERE_SIMBOLO_DA_AGUA_STRING);
-			_tabuleiro[i * ORDEM_MATRIZ_TABULEIRO + j].visivel = TRUE;
+			_tabuleiro[i * ORDEM_MATRIZ_TABULEIRO + j].visivel = FALSE;
 		}
 	}
 }
