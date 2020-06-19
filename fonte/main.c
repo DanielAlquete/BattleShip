@@ -4,7 +4,7 @@ Name: BattleShip.
 Description: O famoso jogo de barquinhos e explosões agora na linguagem favorita de qualquer estudante de Engenharia, a linguagem C.
 Fique à vontade para editá-lo, modificá-lo e distribuí-lo, uma vez que, os códigos fontes desse projeto são LIVRES.
 Data: 08/05/2020.
-Version: 1.0.
+Version: 1.2.
 Authors (Copyleft): Daniel Alquete e Rodrigo Andrade.
 ==========================================================================================================================================
 */
